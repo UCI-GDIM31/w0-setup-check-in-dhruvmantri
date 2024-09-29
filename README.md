@@ -5,18 +5,13 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
+1. Hey I’m Dhruv Mantri (he/him) - an international freshman with a Materials Science and Engineering major but I plan to switch to Computer Science. I'm from Delhi, India and I enjoy playing soccer (or any sport honestly), speaking to new people, socialising, listening to music etc. I play Minecraft, Rocket League, Fortnite etc. I am taking this class to get a basic level of understanding in developing games.
 
-2. Which of the following best describes your major? Please specify if not GDIM.  
+2. Materials Science and Engineering (switch to CS and double major with Business Administration)
 
-    - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
-    - [ ] Art-related major (please specify)
-    - [ ] Undecided
-    - [ ] Other (please specify)
+3. I am taking this class to get a basic level of understanding in developing games.
 
-3. What are you hoping to get out of this class?
-4. What, if anything, are you nervous about for this class?
+4. Not knowing most of the games people discuss about as I am not a big gamer.
 
 ## Prior Experience
 
@@ -24,11 +19,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. 5/10
 
-2. Game development (any engine)
+2. 2/10
 
-3. Unity
+3. U0/10
 
 ### Programming & Game Development Concepts
 
@@ -39,15 +34,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. N/A
 
-2. Scope management
+2. N/A
 
-3. Iteration
+3. repetition of an algorithm or a process
 
-4. Object-Oriented programming
+4. code containing data fields
 
-5. Model-View-Controller architecture
+5. N/A
 
 ## Complete!
 
